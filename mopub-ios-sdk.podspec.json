@@ -16,7 +16,8 @@
     "ios": "6.0"
   },
   "source": {
-    "git": "https://github.com/mopub/mopub-ios-sdk.git"
+    "git": "https://github.com/mopub/mopub-ios-sdk.git",
+    "tag": "4.5.1"
   },
   "frameworks": [
     "CoreGraphics",
