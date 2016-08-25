@@ -11,8 +11,8 @@
 #import "MPGeolocationProvider.h"
 #import "MPRewardedVideo.h"
 
-#import "FABKitProtocol.h"
-#import "Fabric+FABKits.h"
+#import <FABKitProtocol.h>
+#import <Fabric+FABKits.h>
 
 @interface MoPub () <FABKit>
 
